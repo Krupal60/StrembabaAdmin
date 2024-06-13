@@ -16,9 +16,6 @@ XML: Layout markup language for Android UI.
 REST APIs: Integration with external services for enhanced functionality.
 
 
-Acknowledgments:
-Mention any collaborators, libraries, or resources used in the project.
-
 Contact:
 
 Krupal Vekariya
